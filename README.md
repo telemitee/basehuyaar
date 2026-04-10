@@ -1,7 +1,5 @@
 # basehuyaar
-----
-base hu yaar
-aakhiye
-teriiiii
+.....
 basegm
 gbase
+base is great airdrop ever
