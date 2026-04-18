@@ -26,6 +26,19 @@ CMD ["python3", "-m", "AnnieXMedia"]
 MIT License
 
 Copyright (c) 2025 Certified Coder
+API_ID=              # Required - Get from https://my.telegram.org
+API_HASH=            # Required - From https://my.telegram.org
+BOT_TOKEN=           # Required - Get t.me/BotFather
+OWNER_ID=            # Required - Your Telegram user ID
+LOGGER_ID=           # Required - Log group/channel ID
+STRING_SESSION=      # Required - Generate from @SessionBuilderbot
+MONGO_DB_URI=        # Required - MongoDB connection string
+COOKIE_URL=          # Required - YT Cookies url
+
+DEEP_API=            # Optional - Get from https://deepai.org
+API_KEY=             # Optional - External API key for song Download
+VIDEO_API_URL=       # Optional - External API url for video Download
+API_URL=             # Optional - External API url for audio Download
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
