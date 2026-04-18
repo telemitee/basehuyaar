@@ -60,8 +60,7 @@ pycryptodome
 pydub
 pyfiglet
 hon-dotenv
-python-whois
-pyyaml
+
 qrcode
 requests
 speedtest-cli
