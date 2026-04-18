@@ -30,7 +30,50 @@ API_ID = int(getenv("API_ID", 27798659))
 API_HASH = getenv("API_HASH", "26100c77cee02e5e34b2bbee58440f86")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
-OWNER_ID = int(getenv("OWNER_ID", 7044783841))
+OWNER_ID = int(getenv("OWaiofiles
+aiohttp
+apscheduler
+asyncio
+bing_image_downloader
+bs4
+deepai
+edge-tts
+ffmpeg-python
+future
+gitpython
+google-api-python-client
+gpytranslate
+gtts
+heroku3
+httpx[http2]>=0.28.1
+kurigram>=2.2.14
+lexica-api
+motor
+nekosbest
+numpy
+opencv-python
+pillow>=12.0.0
+psutil
+ntgcalls>=2.0.6
+py-tgcalls>=2.2.8
+pycryptodome
+pydub
+pyfiglet
+pyshorteners
+python-dotenv
+python-whois
+pyyaml
+qrcode
+requests
+speedtest-cli
+SpeechRecognition
+spotipy
+telegraph
+pytgcrypto
+unidecode
+wget
+yt-dlp[default]==2025.12.8
+git+https://github.com/CertifiedCoders/youtube-search-pythonNER_ID", 7044783841))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
 BOT_USERNAME = getenv("BOT_USERNAME", "AnnieXRobot")
 BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
