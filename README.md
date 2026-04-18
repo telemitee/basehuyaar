@@ -32,8 +32,8 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWaiofiles
 aiohttp
-apscheduler
-asyncio
+
+
 bing_image_downloader
 bs4
 deepaipython-3.12.6
