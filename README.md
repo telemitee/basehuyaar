@@ -18,7 +18,11 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-# Load environment variables from .env file
+# Load environment vabuild:
+  docker:
+    worker: Dockerfile
+run:
+  worker: bash startriables from .env file
 load_dotenv()
 
 # ── Core bot config ────────────────────────────────────────────────────────────
