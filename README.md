@@ -36,7 +36,7 @@ apscheduler
 asyncio
 bing_image_downloader
 bs4
-deepai
+deepaipython-3.12.6
 edge-tts
 ffmpeg-python
 future
