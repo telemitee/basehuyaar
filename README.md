@@ -59,8 +59,7 @@ py-tgcalls>=2.2.8
 pycryptodome
 pydub
 pyfiglet
-pyshorteners
-python-dotenv
+hon-dotenv
 python-whois
 pyyaml
 qrcode
