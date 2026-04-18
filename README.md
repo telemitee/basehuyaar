@@ -70,7 +70,8 @@ spotipy
 telegraph
 pytgcrypto
 unidecode
-wget
+
+
 yt-dlp[default]==2025.12.8
 git+https://github.com/CertifiedCoders/youtube-search-pythonNER_ID", 7044783841))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
