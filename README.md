@@ -93,9 +93,7 @@ COOKIE_URL = getenv("COOKIE_URL")  # required (paste link)
 API_URL = getenv("API_URL")        # optional
 VIDEO_API_URL = getenv("VIDEO_API_URL")  # optional
 API_KEY = getenv("API_KEY")        # optional
-DEEP_API = getenv("DEEP_API")      # optional
-
-# ── Hosting / deployment ───────────────────────────────────────────────────────
+DEEP_API = getenv("DEEP_API")      # optionalloyment ───────────────────────────────────────────────────────
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
