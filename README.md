@@ -16,7 +16,6 @@ import re
 from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
-
 # Load environment vabuild:
   docker:
     worker: Dockerfile
