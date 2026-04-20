@@ -9,8 +9,7 @@ downloads/
 __pycache__/
 *.session-journal
 FROM python:3.12-slim
-
-RUN apt-get update && \
+RUN apt-get update &&
     apt-get install -y --no-install-recommends git ffmpeg curl unzip && \
     rm -rf /var/lib/apt/lis# Authored By Certified Coders © 2025
 import re
