@@ -113,7 +113,6 @@ STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
 STRING4 = getenv("STRING_SESSION4")
 STRING5 = getenv("STRING_SESSION5")
-
 # ── Media assets ───────────────────────────────────────────────────────────────
 START_VIDS = [
     "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
