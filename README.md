@@ -57,8 +57,6 @@ py-tgcalls>=2.2.8
 pycryptodome
 pydub
 pyfiglet
-hon-dotenv
-
 qrcode
 requests
 speedtest-cli
