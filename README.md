@@ -22,7 +22,7 @@ from pyrogram import filters
 run:
   worker: bash startriables from .env file
 load_dotenv()
-# ── Core bot config ────────────────────────────────────────────────────────────
+# ── Core bot config 
 API_ID = int(getenv("API_ID", 27798659))
 API_HASH = getenv("API_HASH", "26100c77cee02e5e34b2bbee58440f86")
 BOT_TOKEN = getenv("BOT_TOKEN")
